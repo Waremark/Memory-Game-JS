@@ -15,7 +15,7 @@ for(i=0;i<=17;i++){
 	cards[i]=tab[i].toString()+".png";
 }
 //alert(cards);
-
+//another art of shuffling cards
 //alert(tab);
 //for(i=0;i<=17;i++) { randomNum =  Math.floor(Math.random() * 17);}
 
