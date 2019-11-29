@@ -1,2 +1,2 @@
-Cards Game
+Cards Game in JavaScript
 
